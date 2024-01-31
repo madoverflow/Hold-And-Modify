@@ -7,9 +7,6 @@
 Hold and Modify or HAM, is a compression alghoritm for images. Commodore Amiga 500 was a personal computer in '80s and today is just considered one of the most famous PCs ever. It let you see image in *high definition* thanks to 4096 available colors (4 bits for each RGB channel) but its memory was poor. So we needed to compress images to store lots of them preserving an **high quality**. HAM is a lossy compression alghoritm so some data is lost on the way. This version of HAM uses 6 bits: 2 bits control and 4 bits data. HAM is fast with bad hardwares but it's not the best compression alghoritm (more details -> https://en.wikipedia.org/wiki/Hold-And-Modify).
 
 
-Best regards.
-
-
 ## License
 
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.txt)
